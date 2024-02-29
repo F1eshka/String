@@ -1,0 +1,8 @@
+﻿  String.cpp
+C:\Users\Rog\source\repos\String\String.cpp(35,18): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Rog\source\repos\String\String.cpp(133,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Rog\source\repos\String\String.cpp(157,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Rog\source\repos\String\String.cpp(167,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Rog\source\repos\String\String.cpp(230,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Rog\source\repos\String\String.cpp(335): warning C4717: operator<<: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+  String.vcxproj -> C:\Users\Rog\source\repos\String\x64\Debug\String.exe
